@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Le titre du document</title>
-    <link rel="stylesheet" type="text/css" href="feuille-de-styles.css">
-  </head>
-  <body>
-    <!-- Une ou plusieurs balises HTML pour définir le contenu du document -->
-    <script src="jquery.js"></script>
-    <script src="mon-script.js"></script>
-  </body>
-</html>
+
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script> 
